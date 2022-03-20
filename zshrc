@@ -75,6 +75,8 @@ plugins=(
     git
     zsh-syntax-highlighting
     zsh-autosuggestions
+    sudo
+    web-search
 )
 
 
