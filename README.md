@@ -1,0 +1,2 @@
+# pasazevklerim
+my shitty dotfiles
